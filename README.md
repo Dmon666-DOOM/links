@@ -23,7 +23,8 @@
 [chiark.greenend.org.uk/~sgtatham/putty/latest.html](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) - 
 [filezilla-project.org](https://filezilla-project.org/download.php?show_all=1) - 
 [bluefish.openoffice.nl](https://bluefish.openoffice.nl) - 
-[zerossl.com](https://zerossl.com/pricing/)
+[zerossl.com](https://zerossl.com/pricing/) - 
+[code.visualstudio.com](https://code.visualstudio.com/)
 
 ### Encryption
 [gpg4win.org](https://gpg4win.org) - 
