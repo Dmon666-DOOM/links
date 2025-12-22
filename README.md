@@ -20,7 +20,7 @@
 [combell.com](https://www.combell.com) -
 [mailfence.com](https://mailfence.com) -
 [ovhcloud.com](https://www.ovhcloud.com) -
-[chiark.greenend.org.uk/~sgtatham/putty/latest.html](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) -
+[putty.software](https://putty.software) -
 [filezilla-project.org](https://filezilla-project.org/download.php?show_all=1) -
 [zerossl.com](https://zerossl.com/pricing/) -
 [pulsar-edit.dev](https://pulsar-edit.dev/)
