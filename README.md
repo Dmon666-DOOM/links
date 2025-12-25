@@ -32,7 +32,7 @@
 [apps.kde.org/kleopatra](https://apps.kde.org/kleopatra/)
 
 ### Linux
-[debian.org](https://www.debian.org/distrib/) - 
+[debian.org](https://wiki.debian.org/DebianReleases) - 
 [wiki.archlinux.org](https://wiki.archlinux.org) - 
 [distrowatch.com](https://distrowatch.com/) - 
 [nginx.org](https://nginx.org/) - 
